@@ -4,4 +4,6 @@ I have been very interested in stocks and investing recently and I love to pursu
 
 This repo consists of all my projects about the stock market.
 
-SPY_gain: uses past 5 year historical SPY data to analyze how one day affects the next
+SPY_gain:
+- uses past 5 year historical SPY data to analyze how one day affects the next
+- finds the optimal range of SPY with the highest probability of a following green day
